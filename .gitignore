@@ -1,0 +1,8 @@
+# Node modules
+node_modules/
+
+# Локальные файлы редактора
+.DS_Store
+
+# Логи
+npm-debug.log
